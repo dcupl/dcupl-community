@@ -9,17 +9,17 @@
     <img src="https://img.shields.io/npm/v/@dcupl/cli/latest.svg?style=flat-square" alt="dcupl CLI" />
   </a>
   <a href="https://npmjs.com/package/@dcupl/cli" rel="nofollow">
-    <img src="https://img.shields.io/npm/dt/@dcupl/cli.svg?style=flat-square" alt="npm">
+    <img src="https://img.shields.io/npm/dt/@dcupl/cli.svg?style=flat-square" alt="dcupl CLI">
   </a>
 </p>
 
 <p align="center">
 <strong>@dcupl/core</strong><br/>
-  <a href="https://npmjs.com/package/@dcupl/cli">
-    <img src="https://img.shields.io/npm/v/@dcupl/cli/latest.svg?style=flat-square" alt="dcupl CLI" />
+  <a href="https://npmjs.com/package/@dcupl/core">
+    <img src="https://img.shields.io/npm/v/@dcupl/core/latest.svg?style=flat-square" alt="dcupl CLI" />
   </a>
-  <a href="https://npmjs.com/package/@dcupl/cli" rel="nofollow">
-    <img src="https://img.shields.io/npm/dt/@dcupl/cli.svg?style=flat-square" alt="npm">
+  <a href="https://npmjs.com/package/@dcupl/core" rel="nofollow">
+    <img src="https://img.shields.io/npm/dt/@dcupl/core.svg?style=flat-square" alt="dcupl Core">
   </a>
 </p>
 
